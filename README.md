@@ -1,2 +1,2 @@
-# dio-defaio-git-hub
+# dio-desafio-git-hub
 Repositorio para desafio git hub DIO
